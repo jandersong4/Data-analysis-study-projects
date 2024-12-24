@@ -16,4 +16,3 @@ This repository will consist of a series of 20 challenges, all based on the ment
 - **_NumPy_**: Efficient manipulation of arrays and mathematical operations.
 - **_Pandas_**: Analysis and manipulation of tabular data.
 - **_Matplotlib_**: Creation of customized graphs and visualizations.
-  nltk
